@@ -19,3 +19,6 @@ https://product-landing-page.freecodecamp.rocks/
 ### Notas Adicionais:
 
 ### Problemas encontrados enquanto fazia o projeto:
+
+- navbar não está ficando posicionada da maneira que deveria
+- botão de submit não está centralizando no form
