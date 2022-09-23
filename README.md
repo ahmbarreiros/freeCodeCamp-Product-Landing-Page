@@ -1,24 +1,52 @@
 # freeCodeCamp-Product-Landing-Page
 
-Projeto para certificado de progresso do novo curso de Responsive Web Design feito pelo freeCodeCamp.
+> Landing page of a musical instruments company
 
-Ao realizar o projeto, conceitos básicos de HMTL e CSS são usados, além de novas propriedades que foram pesquisadas para complementar o projeto e deixá-lo mais fidedigno.
+## Table of Contents
 
-Screenshots:
+- [General Info](#general-information)
+- [Technologies Used](#technologies-used)
+- [Screenshots](#screenshots)
+- [Project Status](#project-status)
+- [Room for Improvement](#room-for-improvement)
+- [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
 
-original site by freeCodeCamp:
-https://product-landing-page.freecodecamp.rocks/
+## General Information
 
-## Meu Processo:
+Project made for the certificate of progress by the Responsive Web Deisgn Curriculum made by freeCodeCamp.
 
-### Construído com:
+## Technologies Used
 
 - HTML5
-- CSS
+- CSS3
 
-### Notas Adicionais:
+## Screenshots:
 
-### Problemas encontrados enquanto fazia o projeto:
+- https://i.imgur.com/HUnX35p.png (top)
 
-- navbar não está ficando posicionada da maneira que deveria
-- botão de submit não está centralizando no form
+- https://i.imgur.com/zpyXgDO.png (bottom)
+
+## Project Status
+
+Project is: _in progress_
+
+## Room for Improvement
+
+Room for improvement:
+
+- color pallet to make it more similar to the original project.
+- margins and paddings of main and footer.
+
+To do:
+
+- media query for responsive web design.
+
+## Acknowledgements
+
+- This project was inspired by freeCodeCamp Product Landing Page.
+- This project was based on [this page](https://product-landing-page.freecodecamp.rocks/).
+
+## Contact
+
+Created by [Antônio Henrique](https://www.linkedin.com/in/ant%C3%B4nio-henrique-0aa9a2242/)
