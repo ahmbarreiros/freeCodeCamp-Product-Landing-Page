@@ -23,9 +23,9 @@ Project made for the certificate of progress by the Responsive Web Deisgn Curric
 
 ## Screenshots:
 
-- https://i.imgur.com/HUnX35p.png (top)
+- [top screenshot](https://i.imgur.com/HUnX35p.png)
 
-- https://i.imgur.com/zpyXgDO.png (bottom)
+- [bottom screenshot](https://i.imgur.com/zpyXgDO.png)
 
 ## Project Status
 
